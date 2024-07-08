@@ -2,10 +2,11 @@
 *  WEB700 – Assignment 3
 *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  
 *  No part of this assignment has been copied manually or electronically from any other source
-*  (including web sites) or distributed to other students.
+*  (including 3rd party web sites) or distributed to other students.
 * 
-*  Name: Pamela Daisy Ferrao Student ID: 138230230 Date: 2024-06-18
-*
+*  Name: Pamela Daisy Ferrao   Student ID: 138230230    Date: 2024-06-18
+
+*Online (vercel) link: https://assignment-4-pamela-daisy-ferraos-projects.vercel.app/
 ********************************************************************************/
 
 var express = require("express"); // Import Express.js framework
